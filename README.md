@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adarsh-raturi-github
-- 👀 I’m interested in learning and doing new tsch stuff
+- 👀 I’m interested in learning and doing new tech stuff
 - 🌱 I’m currently working as software developer
 - 📫 How to reach me https://in.linkedin.com/in/adarsh-raturi-847208163
 
