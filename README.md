@@ -1,8 +1,18 @@
 <div align="center">
 
-# Hi 👋 I'm Adarsh Raturi
+------------------------------------------------------------
 
-### Full Stack Software Engineer • Distributed Systems Enthusiast • AI Explorer
+👋 Adarsh Raturi
+
+Full Stack Software Engineer
+
+Building Production-Grade Distributed Systems
+
+Node.js | TypeScript | React | Angular
+
+Kafka | Kubernetes | PostgreSQL | AI
+
+------------------------------------------------------------
 
 <p>
 Building scalable applications with modern backend, frontend, distributed systems, and AI technologies.
@@ -125,17 +135,6 @@ Inspired by real-world architectures used by companies like BookMyShow, Uber, Ne
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarsh-raturi-github&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-raturi-github&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -147,11 +146,11 @@ Inspired by real-world architectures used by companies like BookMyShow, Uber, Ne
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adarsh-raturi-github&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=adarsh-raturi-github&theme=onedark&no-frame=true&row=1&column=6"/>
 
 </p>
 
