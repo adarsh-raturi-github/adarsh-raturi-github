@@ -44,7 +44,6 @@ Building scalable applications with modern backend, frontend, distributed system
 - 🎬 Currently developing **BookMyMovie**, a movie ticket booking platform inspired by production architectures
 - 🌱 Exploring **Distributed Systems, Kubernetes, Apache Kafka, Event-Driven Architecture, CQRS, Saga Pattern**
 - 🤖 Interested in **LLMs, LangChain, LangGraph, AI-powered developer tools**
-- 🎯 Preparing for **SDE2 / SDE3** Backend & Full Stack Engineering roles
 
 ---
 
