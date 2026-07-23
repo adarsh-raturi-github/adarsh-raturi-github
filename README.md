@@ -31,6 +31,8 @@ Building scalable applications with modern backend, frontend, distributed system
 <img src="https://img.shields.io/github/followers/adarsh-raturi-github?style=for-the-badge"/>
 </a>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=adarsh-raturi-github)
+
 </p>
 
 </div>
